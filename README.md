@@ -31,3 +31,12 @@ We performed our analysis using two major data sets,  1) city data  2)ride data 
 3) The reason for having higher fares in rural and suburb areas compared to urban areas, is to make up the profit loss due to fewer number of rides. This shows that trips are shorter and cost less in urban areas and it results in high number of drivers. 
 
 ## Challenge Summary
+![PyBer_fare_summary](https://user-images.githubusercontent.com/86033316/135790081-b3ee61fc-fa2d-4e10-8f16-d03ec5ac0b2b.png)
+
+By looking at final line chart diagram of total revenue based on city type, we hereby have the following recommendations to the CEO:
+
+1) There are much more number of drivers in urban areas compared to rural and suburban locations. We recommend implementing incentives for drivers who have more rides in rural and suburban areas. This will result in a more balanced dentisty of drivers in different areas in the city which will result in happier costumers due to shorter wait time for finding a driver.
+2) It is clear that drivers make more profit in urban areas with more frequent and shorter rides with lower fares. I recommend imposing ride sharing techniques like allowing more than 1 costumers to ride with one driver (carpooling) in rural and suburban areas to make the trips cheaper for costumers and also more profitable for drivers. This will result in decresing the profit gap between rural and urban areas.
+3) Our line chart shows that company has lowest fare in the month of January and May. We recommend CEO to introduce promotional incentives for both drivers and costumer during these months to have better profitablity and more trips. 
+
+  
